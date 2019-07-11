@@ -62,6 +62,8 @@ The Consumer bounty is:
 
 - Article 19 Briefing Paper on Protection of Journalists' Sources - FREEDOM OF EXPRESSION LITIGATION PROJECT: https://www.article19.org/data/files/pdfs/publications/right-to-protect-sources.pdf
 
+- Committee to Protect Journalists: https://cpj.org/
+
 - Journalism source protection, Wikipoedia: https://en.wikipedia.org/wiki/Journalism_source_protection
 
 - Scientific Journalism, Wikipedia: https://en.wikipedia.org/wiki/Scientific_journalism
