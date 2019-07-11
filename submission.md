@@ -75,10 +75,10 @@ The videos were published on YouTube's centralized platform. By leveraging Web3 
 
 
 ## Professional links
-Linked in: https://www.linkedin.com/in/chris-spannos-a20968106/
-Github: https://github.com/cspannos
-Twitter: https://twitter.com/cspannos
-Scaling Today: https://scaling.today/
+- Linked in: https://www.linkedin.com/in/chris-spannos-a20968106/
+- Github: https://github.com/cspannos
+- Twitter: https://twitter.com/cspannos
+- Scaling Today: https://scaling.today/
 
 ## Project Launch Page
 [Invest-y-gative](https://ipfs.infura.io/ipfs/QmbJaYANQ75AJmWkDJqL7MB6P2XLySEQCUuCtuiU3T4Twv/index.html)
