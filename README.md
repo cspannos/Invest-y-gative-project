@@ -34,6 +34,7 @@ The environment for this implementation relies upon:
     * web3: 1.0.0-beta.37
 
 ### How to install:
+* Install NPM: https://www.npmjs.com/get-npm
 * Truffle: ``$ npm install truffle -g``
 * Ganache: download the [AppImage for GUI](https://www.trufflesuite.com/ganache). Be sure to make the image executable (in file properties).
 * IPFS (if deploying this dApp): To install, first [download IPFS](https://dist.ipfs.io/#go-ipfs). Then run these commands:
