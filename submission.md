@@ -81,4 +81,4 @@ The videos were published on YouTube's centralized platform. By leveraging Web3 
 - Scaling Today: https://scaling.today/
 
 ## Project Launch Page (Proof-of-Concept submissions box)
-[Invest-y-gative](https://ipfs.infura.io/ipfs/QmbJaYANQ75AJmWkDJqL7MB6P2XLySEQCUuCtuiU3T4Twv/index.html)
+Invest-y-gative: http://localhost:3000/ (please see README.md for local instantiation instructions).
