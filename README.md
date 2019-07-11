@@ -11,9 +11,6 @@ This submission box uses IPFS as a peer-to-peer hosting platform. It utilizes th
 
 Please note that this is an Proof-of-Concept and I am still building out specifications and squashing bugs.
 
-**You can interact with this dApp on the Ropsten test network:**
-https://ipfs.infura.io/ipfs/QmTbXmosKSe7CZHUf2Vkok14VGBQ2Npvg7EmqsC8mCHkFN/index.html/
-
 Below are instructions for spinning up a local instance.
 
 ## Getting Started
@@ -55,12 +52,6 @@ To spin this implementation up on your own machine, follow these steps:
 - in another terminal, cd to ‘Invest-y-gative/client’, run ``$ npm run start``;
 
 This last step will initialize a local implementation of this project and load in your browser at: http://localhost:3000/ . You will be able to upload a file from your local disk to IPFS and have the file’s hash returned in your browser.
-
-### Deployment
-To deploy the dApp, you must first initiate a production build. Change directory to ‘Invest-y-gative/client’ and ``$ npm run build``.
-Once the build is done, in a separate terminal run ``$ ipfs daemon``. In another separate terminal, cd into Invest-y-gative/client and run ``$ ipfs add -r build``, copy the last hash returned, indicating the root for the ‘build’ directory, then run ``$ ipfs swarm peers``, then ``$ ipfs name publish yourhashforthebuilddirectory``. Go to a gateway, such as https://ipfs.infura.io and load the hash with index.html as such:  https://ipfs.infura.io/ipfs/QmTbXmosKSe7CZHUf2Vkok14VGBQ2Npvg7EmqsC8mCHkFN/index.html/
-
-Go have a coffee, check your notifications and see if the dApp has loaded in your browser.
 
 ## Authors
 Chris Spannos - ConsenSys Beyond Blockchain Hackathon 2019 - Breaking News: Reinventing The Online News Economy
