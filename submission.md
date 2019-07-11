@@ -68,6 +68,12 @@ The Consumer bounty is:
 
 - Scientific Journalism, Wikipedia: https://en.wikipedia.org/wiki/Scientific_journalism
 
+# Sample material to demonstrate the importance of scientific Journalism and the role of blockchain
+WikiLeaks 5th April 2010 [Collatral Murder videos](https://collateralmurder.wikileaks.org/) documented grave abuses of US military power "depicting the indiscriminate slaying of over a dozen people in the Iraqi suburb of New Baghdad -- including two Reuters news staff."
+
+The videos were published on YouTube's centralized platform. By leveraging Web3 technologies, Invest-y-gative, would publish on distributed consensus technology that promotes Immutability (censorship resistance), Trustlessness (verification of source material), and information Disaggregation (breaking down centralized news publishing platforms) and, through cryptographic protocols, establish source and journalist protection.
+
+
 ## Professional links
 Linked in: https://www.linkedin.com/in/chris-spannos-a20968106/
 Github: https://github.com/cspannos
