@@ -44,7 +44,7 @@ The environment for this implementation relies upon:
 then to initialize run ``ipfs init``.
 
 To spin this implementation up on your own machine, follow these steps:
-- clone this repository: ``git clone **ADD URL**`` ;
+- clone this repository: ``git clone https://github.com/cspannos/Invest-y-gative-project`` ;
 - cd into the root directory ‘Invest-y-gative’: `` cd Invest-y-gative``;
 - then cd into the directory titled 'client': ``cd client``;
 - once inside the client directory, to install dApp packages, run: ``npm install``
