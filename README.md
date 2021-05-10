@@ -1,6 +1,6 @@
 # Invest-y-gative: Reinventing The Online News Economy
 
-The dApp produced for this hackathon is a Proof-of-Concept core component of the Invest-y-gative project. It is the submissions layer (the submission box) and utilizes the Ethereum blockchain and IPFS to advance:
+The dApp produced for this hackathon is a Proof-of-Principle core component of the Invest-y-gative project. It is the submissions layer (the submission box) and utilizes the Ethereum blockchain and IPFS to advance:
 
 - source/journalist protection;
 - source material verification (notarization) for documents, video, audio, etc.;
